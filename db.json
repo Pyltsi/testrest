@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Ääkkösiä 1 Å"
+    },
+	{
+      "id": 2,
+      "title": "Ääkkösiä 2 å"
+    },
+	{
+      "id": 3,
+      "title": "Ääkkösiä 3 Ö"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
